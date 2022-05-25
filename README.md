@@ -9,6 +9,5 @@ You can visit my [website](https://aaron.ourtechnologies.org) to know more about
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtiz&layout=compact&theme=codeSTACKr)
 
-<!-- ![coding stats ](https://wakatime.com/share/@kurtiz/05cc74b8-6f7c-47e0-9cdb-b2dc2441555b.svg) -->
-<!-- (https://wakatime.com/share/@kurtiz/086c24ec-322a-49b7-bca5-38c192aa721d.png) -->
-<img src="https://wakatime.com/share/@kurtiz/05cc74b8-6f7c-47e0-9cdb-b2dc2441555b.svg" width="550px">
+<img src="https://wakatime.com/share/@kurtiz/05cc74b8-6f7c-47e0-9cdb-b2dc2441555b.svg" width="550px"/>
+<img src="https://wakatime.com/share/@kurtiz/573d05b7-7e33-495c-b1bb-1b530cfc868e.svg" width="550px"/>
