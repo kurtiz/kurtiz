@@ -3,13 +3,13 @@ name: Update badges
 on:
   schedule:
     # Runs at 11:31 UTC
-    - cron: "31 11 * * *"
+    - cron: "36 11 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: kurtiz/kurtiz@master
+      - name: Badges Readme
+        uses: pemtajo/badge-readme@2.3.0
           CREDLY_USER: aaron-will-djaba 
           # optional, but default will use the same from github
