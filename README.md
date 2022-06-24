@@ -2,10 +2,10 @@
 
 You can visit my [website](https://aaron.ourtechnologies.org) to know more about me.
 
-- 🔭 I'm currently schooling but I'm working a new open source [project](https://github.com/Melanin-Framework/melanin-framework-codeigniter). I hope you like it.
+- 🔭 I'm currently schooling but I'm working a new open source [project](https://github.com/Melanin-Framework/). I hope you like it.
 
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=kurtiz&show_icons=true&theme=codeSTACKr&hide=contribs,prs)
+![my github stats](https://github-readme-stats.vercel.app/api?username=kurtiz&show_icons=true&theme=codeSTACKr)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtiz&layout=compact&theme=codeSTACKr)
 
