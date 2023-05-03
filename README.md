@@ -5,7 +5,8 @@ I'm a full-stack developer with expertise in web and mobile development. I love 
 As a developer, I am always looking for ways to improve my skills and contribute to the open source community. I love working on projects that challenge me to learn and grow as a developer. You can check out some of my work on my GitHub page, and feel free to get in touch with me. 
 
 I'm passionate about using technology to make the world a better place, and I'm excited to see where my skills as a developer will take me.
-You can visit my [website](https://aaron.ourtechnologies.org) to know more about me.
+
+You can visit my 🌐 [website](https://aaron.ourtechnologies.org) to know more about me.
 
 <!-- - 🔭 I'm currently schooling but I'm working a new open source [project](https://github.com/Melanin-Framework/). I hope you like it. -->
 
