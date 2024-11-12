@@ -6,7 +6,7 @@ As a developer, I am always looking for ways to improve my skills and contribute
 
 I'm passionate about using technology to make the world a better place, and I'm excited to see where my skills as a developer will take me.
 
-You can visit my 🌐 [website](https://aaron.ourtechnologies.org) to know more about me.
+You can visit my 🌐 [website](https://aaronwilldjaba.vercel.app/) to know more about me.
 
 <h3 align="left">Languages and Tools:</h3>
 Some technologies and stacks I work with include 
