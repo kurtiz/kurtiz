@@ -1,18 +1,36 @@
-## Hi!👋🏾 Thanks for stopping by 😊
+# Hi, I'm Aaron! 👋🏾
 
-I'm a full-stack developer with expertise in web and mobile development. I love building responsive and user-friendly web and mobile applications that solve real-world problems. 
+**Full-Stack Engineer | Cyber Security Analyst & Pentester | Open Source Leader**
 
-As a developer, I am always looking for ways to improve my skills and contribute to the open source community. I love working on projects that challenge me to learn and grow as a developer. You can check out some of my work on my GitHub page, and feel free to get in touch with me. 
+I bridge the gap between robust software engineering and proactive security. I build high-performance, secure-by-design applications and am passionate about fostering the next generation of technical talent in Africa.
 
-I'm passionate about using technology to make the world a better place, and I'm excited to see where my skills as a developer will take me.
+### 🏗️ What I’m Working On
 
-You can visit my 🌐 [website](https://iamaaronwilldjaba.me/) to know more about me.
+* **[bVault-js](https://github.com/kurtiz/bvault-js):** A lightweight, secure JavaScript utility for handling sensitive data storage and vaulting logic. Focused on privacy-first browser and node environments.
+* **Vedtrace:** My flagship project. I am architecting a secure, end-to-end tracing and data integrity system designed for [insert high-level goal, e.g., supply chain transparency or secure asset tracking]. *(Currently in private development)*.
+* **[OSSAfrica](https://github.com/OSSAfrica):** Co-Founder and SIG (Special Interest Group) Lead. We are a growing global community focused on Open Source and Security in Africa, driving collaborative innovation and security awareness across the continent.
 
-<!-- - 🔭 I'm currently schooling but I'm working a new open source [project](https://github.com/Melanin-Framework/). I hope you like it. -->
+### 💎 Core Strengths & Expertise
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=kurtiz&show_icons=true&theme=codeSTACKr)
+* **Cyber Security & Pentesting:** Experienced in vulnerability assessment and penetration testing (VAPT). I apply a "Red Team" mindset to everything I build to ensure production code is hardened against modern exploits.
+* **Secure Full-Stack Architecture:** Expert in building scalable systems using the MERN/PERN stack, with a heavy emphasis on secure authentication and data encryption.
+* **Open Source Leadership:** Proven ability to lead communities, manage SIGs, and coordinate large-scale collaborative projects.
+* **Mobile Development:** Crafting secure, native-feel mobile experiences for iOS and Android.
 
-<img src="https://wakatime.com/share/@kurtiz/05cc74b8-6f7c-47e0-9cdb-b2dc2441555b.svg" width="550px"/>
-<img src="https://wakatime.com/share/@kurtiz/573d05b7-7e33-495c-b1bb-1b530cfc868e.svg" width="550px"/>
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+---
+
+### 📊 My Coding Activity
+
+<p align="left">
+<img src="https://wakatime.com/share/@kurtiz/05cc74b8-6f7c-47e0-9cdb-b2dc2441555b.svg" width="48%" alt="WakaTime Stats 1" />
+<img src="https://wakatime.com/share/@kurtiz/573d05b7-7e33-495c-b1bb-1b530cfc868e.svg" width="48%" alt="WakaTime Stats 2" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+* 🌐 **Portfolio:** [iamaaronwilldjaba.me](https://iamaaronwilldjaba.me/)
+* 💼 **LinkedIn:** [Aaron Will Djaba](https://www.linkedin.com/in/aaron-will-djaba-424b7a184)
+* 🛡️ **Community:** [OSSAfrica on GitHub](https://github.com/OSSAfrica)
+* 📧 **Email:** [Email Me](mailto:aaronwilldjaba@outlook.com)
