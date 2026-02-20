@@ -7,7 +7,7 @@ I bridge the gap between robust software engineering and proactive security. I b
 ### 🏗️ What I’m Working On
 
 * **[bVault-js](https://github.com/kurtiz/bvault-js):** A lightweight, secure JavaScript utility for handling sensitive data storage and vaulting logic. Focused on privacy-first browser and node environments.
-* **Vedtrace:** **a simplified, developer-first observability** tool designed to strip away the configuration overhead of platforms like Sentry or Datadog. Vedtrace focuses on high-signal **log management and error tracking**, allowing developers to identify and resolve issues instantly without writing complex dashboard queries or managing heavy instrumentation. It’s built for teams and indie devs who want deep visibility into their code’s behavior with zero friction. *(Currently in private development)*.
+* **[VedaTrace](https://vedatrace.dev):** **a simplified, developer-first observability** tool designed to strip away the configuration overhead of platforms like Sentry or Datadog. Vedtrace focuses on high-signal **log management and error tracking**, allowing developers to identify and resolve issues instantly without writing complex dashboard queries or managing heavy instrumentation. It’s built for teams and indie devs who want deep visibility into their code’s behavior with zero friction. *(Currently in private development)*.
 * **[OSSAfrica](https://github.com/OSSAfrica):** Co-Founder and SIG (Special Interest Group) Lead. We are a growing global community focused on Open Source and Security in Africa, driving collaborative innovation and security awareness across the continent.
 
 ### 💎 Core Strengths & Expertise
